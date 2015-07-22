@@ -1,6 +1,6 @@
 {
-  "name": "iStack - Simple Website Project Template",
-  "version": "1.0",
+  "name": "iStack-Simple-Website-Project-Template",
+  "version": "0.1.0",
   "description": "Starter Project Template for Simple Websites based on John Papa's Gulp Automation Tutorial",
   "authors": [
       "iStack Developers"
@@ -19,7 +19,6 @@
   },
   "dependencies": {
     "jquery": "~2.1.1",
-    "angular": "~1.3.8",
     "bootstrap": "~3.3.1",
     "font-awesome": "~4.2.0"
   }

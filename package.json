@@ -1,15 +1,15 @@
 {
-  "name": "Pluralsight-Gulp",
-  "version": "0.1.0",
-  "description": "Starter Code for Pluralsight Course JavaScript Build Automation with Gulp.js",
+  "name": "iStack - Simple Website Project Template",
+  "version": "1.0",
+  "description": "Starter Project Template for Simple Websites based on John Papa's Gulp Automation Tutorial",
   "authors": [
-    "John Papa"
+    "iStack Developers"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/johnpapa/pluralsight-gulp",
+  "homepage": "https://bitbucket.org/istackholdings/project-templates",
   "repository": {
     "type": "git",
-    "url": "https://github.com/johnpapa/pluralsight-gulp.git"
+    "url": "https://bitbucket.org/istackholdings/project-templates"
   },
   "scripts": {
     "init": "npm install",
